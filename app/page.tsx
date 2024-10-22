@@ -107,7 +107,7 @@ export default function Home() {
                       Discover the Future of Banking with Our Innovative Solutions
                   </p>
                   <p className="text-base text-gray-500 mt-2">
-                      Our platform offers a range of services designed to simplify your financial life. Whether you&apos;'re managing your accounts, applying for loans, or using our credit services, we provide the tools you need to achieve your financial goals with ease and confidence.
+                      Our platform offers a range of services designed to simplify your financial life. Whether you&apos;re managing your accounts, applying for loans, or using our credit services, we provide the tools you need to achieve your financial goals with ease and confidence.
                   </p>
                   <div className="w-[200px] bg-violet-800 h-[45px] flex items-center justify-center rounded-2xl mt-4 cursor-pointer text-white">
                       Learn more
@@ -137,7 +137,7 @@ export default function Home() {
             <p>
               <span className="text-2xl font-semibold">&quot;</span>
               Our banking system is designed to provide secure, reliable, and convenient access to your finances. 
-              Whether you&rsquo;'re managing accounts, applying for loans, or using credit cards, we ensure that your financial 
+              Whether you&rsquo;re managing accounts, applying for loans, or using credit cards, we ensure that your financial 
               journey is seamless and protected every step of the way.
               <span className="text-2xl font-semibold">&quot;</span>
             </p>
