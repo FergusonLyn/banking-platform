@@ -6,7 +6,7 @@ import { FaMoneyBill } from "react-icons/fa";
 import { FaCreditCard } from "react-icons/fa6";
 import { FaShieldAlt, FaUsers, FaStar } from 'react-icons/fa';
 import { GiReceiveMoney } from 'react-icons/gi';
-import imageSlider from "./components/imageSlider";
+
 
 export default function Home() {
   return (
@@ -45,7 +45,7 @@ export default function Home() {
             </ul>
           </div>
 
-          {/* <imageSlider /> */}
+          
 
           {/* Account, Personal Loans and Credit Cards */}
           <div className="h-56 w-3/4 absolute bottom-[-25%] left-1/2 transform -translate-x-1/2 grid grid-cols-3 gap-4">
@@ -107,7 +107,7 @@ export default function Home() {
                       Discover the Future of Banking with Our Innovative Solutions
                   </p>
                   <p className="text-base text-gray-500 mt-2">
-                      Our platform offers a range of services designed to simplify your financial life. Whether you're managing your accounts, applying for loans, or using our credit services, we provide the tools you need to achieve your financial goals with ease and confidence.
+                      Our platform offers a range of services designed to simplify your financial life. Whether you&apos;'re managing your accounts, applying for loans, or using our credit services, we provide the tools you need to achieve your financial goals with ease and confidence.
                   </p>
                   <div className="w-[200px] bg-violet-800 h-[45px] flex items-center justify-center rounded-2xl mt-4 cursor-pointer text-white">
                       Learn more
