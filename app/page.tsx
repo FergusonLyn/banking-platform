@@ -10,12 +10,22 @@ import imageSlider from "./components/imageSlider";
 
 export default function Home() {
   return (
-    <>
+    
       <div className="flex min-h-screen flex-col items-center justify-between overflow-x-hidden">
         
         <div className="md:h-[650px] w-full bg-violet-800 relative">
+
+        <Image
+          src="/bank.avif" // replace with your image path
+          alt="Background"
+          layout="fill"
+          objectFit="cover"
+          quality={100}
+          className="absolute inset-0 z-0" // ensures it covers the div
+        />
+
           {/* navbar */}
-          <div className="w-full m-4">
+          <div className="w-full m-4 z-10 relative">
             <ul className="flex gap-7 text-white p-2 justify-center">
               <li>
                 <Link href='./' className="hover:border-">Home</Link>
@@ -268,6 +278,6 @@ export default function Home() {
 
 
       </div>
-    </>
+    
   );
 }
