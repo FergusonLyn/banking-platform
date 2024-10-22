@@ -16,7 +16,7 @@ export default function Home() {
         <div className="md:h-[650px] w-full bg-violet-800 relative">
 
         <Image
-          src="/bank.avif" // replace with your image path
+          src="/bank.jpeg" // replace with your image path
           alt="Background"
           layout="fill"
           objectFit="cover"
