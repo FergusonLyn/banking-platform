@@ -137,7 +137,7 @@ export default function Home() {
             <p>
               <span className="text-2xl font-semibold">&quot;</span>
               Our banking system is designed to provide secure, reliable, and convenient access to your finances. 
-              Whether you're managing accounts, applying for loans, or using credit cards, we ensure that your financial 
+              Whether you&rsquo;'re managing accounts, applying for loans, or using credit cards, we ensure that your financial 
               journey is seamless and protected every step of the way.
               <span className="text-2xl font-semibold">&quot;</span>
             </p>
